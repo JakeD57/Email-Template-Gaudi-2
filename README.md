@@ -1,5 +1,5 @@
 # Email-Template-Gaudi-2
-A second email Template for Gaudi vision board workshop 
+A second email Template for Gaudiinc. 
 
 <p> Fully responsive Email promoting Gaudiinc online vision boad work shop </p>
 
