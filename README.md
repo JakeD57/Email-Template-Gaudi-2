@@ -1,7 +1,5 @@
 # Email-Template-Gaudi-2
-A second email Template for Gaudiinc. 
-
-<p> Fully responsive Email promoting Gaudiinc online vision boad work shop </p>
+Email Template Design.
 
 [Link to Live Preview!](https://htmlpreview.github.io/?https://github.com/JakeD57/Email-Template-Gaudi-2/blob/master/index.html)
 <hr>
